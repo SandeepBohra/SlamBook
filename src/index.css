@@ -1,0 +1,36 @@
+body {
+
+  background-size: 100% 100%;
+}
+html {
+  height: 100%
+}
+
+
+
+#container {
+    position:relative;
+    display:inline-block;
+    text-align:center;
+    /* background-color:gray; */
+}
+
+.button {
+    position:absolute;
+    bottom:50%;
+    right:50%;
+    width:100px;
+    height:30px;
+    margin: 0px -50px -15px 0px;
+}
+.resize {
+    width:300px;
+    height:200px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+    
